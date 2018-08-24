@@ -1,0 +1,1 @@
+export default import('./LazyDependency2.vue');
